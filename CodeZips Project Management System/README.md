@@ -6,7 +6,7 @@
 
 ## Vendor Homepage
 
-- [https://codezips.com/php/technical-discussion-forum-using-php-with-source-code/](https://codezips.com/php/project-management-system-in-php-and-mysql-with-source-code/)
+- [[https://codezips.com/php/technical-discussion-forum-using-php-with-source-code/](https://codezips.com/php/project-management-system-in-php-and-mysql-with-source-code/)](https://codezips.com/php/project-management-system-in-php-and-mysql-with-source-code/)
 
 ## Software Link
 
