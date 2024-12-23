@@ -6,11 +6,11 @@
 
 ## Vendor Homepage
 
-- [[https://codezips.com/php/technical-discussion-forum-using-php-with-source-code/](https://codezips.com/php/project-management-system-in-php-and-mysql-with-source-code/)](https://codezips.com/php/project-management-system-in-php-and-mysql-with-source-code/)
+- https://codezips.com/php/project-management-system-in-php-and-mysql-with-source-code/
 
 ## Software Link
 
-- [[https://codeload.github.com/codezips/Technical-Discussion-Forum/zip/master](https://codeload.github.com/codezips/project-management-system-php-mysql/zip/master)](https://codeload.github.com/codezips/project-management-system-php-mysql/zip/master)
+- https://codeload.github.com/codezips/project-management-system-php-mysql/zip/master
 
 ## Vendor
 
