@@ -24,7 +24,7 @@
 
 - A SQL injection vulnerability was found in the '/pages/forms/advanced.php' file of the 'Project Management System In PHP And MYSQL With Source Code' project.   The reason for this issue is that attackers inject malicious code from the parameter 'name' and use it directly in SQL queries without the need for appropriate cleaning or validation.   This allows attackers to forge input values, thereby manipulating SQL queries and performing unauthorized operations.
 
-  <img src="./image/1.png" style="zoom:150%;" />
+  <img src="./image/1.jpg" style="zoom:150%;" />
 
 ## Impact
 
@@ -59,7 +59,7 @@ Priority: u=0, i
 name=1' or updatexml(1,concat(0x7e,(database())),0) or '&id=1&year=1-1&email=123%40qq.com&phone=111&submit=Submit
 ```
 
-<img src="./image/2.png" style="zoom:150%;" />
+<img src="./image/2.jpg" style="zoom:150%;" />
 
 ## Suggested fixes
 
