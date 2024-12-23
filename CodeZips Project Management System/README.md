@@ -10,7 +10,7 @@
 
 ## Software Link
 
-- [https://codeload.github.com/codezips/Technical-Discussion-Forum/zip/master](https://codeload.github.com/codezips/project-management-system-php-mysql/zip/master)
+- [[https://codeload.github.com/codezips/Technical-Discussion-Forum/zip/master](https://codeload.github.com/codezips/project-management-system-php-mysql/zip/master)](https://codeload.github.com/codezips/project-management-system-php-mysql/zip/master)
 
 ## Vendor
 
